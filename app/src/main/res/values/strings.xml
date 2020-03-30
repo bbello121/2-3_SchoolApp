@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Your School App</string>
+    <string name="txtSchoolName">St. Petersburg College</string>
+    <string name="descriptionSchoolImage">School Image</string>
+    <string name="txtButton">View School</string>
+    <string name="descriptionLogo">School Logo</string>
+    <string name="txtAddress">6605 5th Avenue N., St. Petersburg, FL 33710</string>
+    <string name="txtPhone">(727) 341–4772</string>
+</resources>
